@@ -1,0 +1,11 @@
+h1{
+	font-style: italic;
+	color: red;
+	text-align: center;
+	background: yellow;
+	size: 500px;
+}
+ul >li{
+	text-align: center;
+	size: 100px;
+}
